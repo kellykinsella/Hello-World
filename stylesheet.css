@@ -1,8 +1,9 @@
 p {
 
-  color:blue;
+  color:violet;
   font-family:cursive;
-  font-size: 40px;
+  font-size: 20px;
+  text-align: center;
   
   }
   
@@ -11,5 +12,6 @@ p {
     height: 100px;
     width: 100px;
     border-radius: 100%;
+    border: 10 px lightblue dashed;
     
     }
