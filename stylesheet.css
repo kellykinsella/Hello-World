@@ -13,7 +13,7 @@ p {
     width: 200px;
     border-radius: 100%;
     border: 10px dashed darkblue;
-    position: center;
+ text-align: center;
     
     }
     
