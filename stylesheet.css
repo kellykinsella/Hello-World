@@ -37,11 +37,11 @@ a:hover{
 div:nth-child(4){
   height: 75px;
   width:75px;
-  color:white;
-  border: 10px solid white;
+  color:#003366;
+  border: 5px solid white;
   text-align: center;
   border-radius: 30%;
-  background-color: blue;
+  background-color: mintcream;
   margin-left: auto;
   margin-right: auto;
 }
