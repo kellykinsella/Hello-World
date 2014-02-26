@@ -20,7 +20,7 @@ p {
     }
     
     .bckk:hover{
-      opacity:50%;
+      opacity:.5;
     }
     
     p:nth-child(3){
