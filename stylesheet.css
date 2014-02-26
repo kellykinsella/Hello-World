@@ -13,11 +13,14 @@ p {
     width: 200px;
     border-radius: 100%;
     border: 10px dashed darkblue;
- text-align: center;
     
     }
     
     p:nth-child(3){
       
       color:blue;
+    }
+    
+    div{
+      text-align: center;
     }
