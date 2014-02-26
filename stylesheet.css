@@ -32,6 +32,8 @@ p {
 a:hover{
   
     color:green;
+    text-decoration: none;
+    color:#003366;
 }
 
 div:nth-child(4){
