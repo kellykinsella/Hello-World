@@ -7,7 +7,7 @@ p {
   
   }
   
-  img {
+  .bckk {
   
     height: 200px;
     width: 200px;
@@ -16,11 +16,6 @@ p {
     display:block;
     margin-left: auto;
     margin-right: auto;
-      -webkit-transition: all 1s ease;
-     -moz-transition: all 1s ease;
-       -o-transition: all 1s ease;
-      -ms-transition: all 1s ease;
-          transition: all 1s ease;
     
     }
     
@@ -65,6 +60,4 @@ div:hover{
 }
 
  
-img:hover {
-  -webkit-filter: grayscale(100%);
-}
+
