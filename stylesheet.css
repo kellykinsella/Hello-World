@@ -16,3 +16,8 @@ p {
     position: center;
     
     }
+    
+    body:nth-child(3){
+      
+      color:blue;
+    }
