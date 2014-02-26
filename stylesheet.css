@@ -73,7 +73,13 @@ div:hover{
 
 #nav li{
   display:inline;
-  padding:30px;
+
+}
+
+ul{
+  padding:0px;
+  list-style-type:none;
+  margin:0px;
 }
 
  
