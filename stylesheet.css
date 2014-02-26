@@ -67,8 +67,11 @@ div:hover{
   height:50px;
   background-color:white;
   color:#003366;
+
+}
+
+#nav li{
   display:inline;
-  padding:20px;
 }
 
  
