@@ -13,6 +13,7 @@ p {
     width: 200px;
     border-radius: 100%;
     border: 10px solid #ffffff;
+    display:block;
     margin-left: auto;
     margin-right: auto;
     
