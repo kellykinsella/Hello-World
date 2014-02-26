@@ -1,1 +1,1 @@
-prompt("What is your name?");
+confirm("Only proceed if you are extremely excited!!");
