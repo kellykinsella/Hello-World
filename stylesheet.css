@@ -19,6 +19,10 @@ p {
     
     }
     
+    .bckk:hover{
+      opacity:50%;
+    }
+    
     p:nth-child(3){
       
       color:#003366;
