@@ -29,9 +29,9 @@ p {
       text-align: center;
     }
 
-a:hover{
+a{
   
-    color:green;
+
     text-decoration: none;
     color:#003366;
 }
