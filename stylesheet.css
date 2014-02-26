@@ -17,7 +17,7 @@ p {
     
     }
     
-    body:nth-child(3){
+    p:nth-child(3){
       
       color:blue;
     }
