@@ -23,7 +23,7 @@ p {
       opacity:.5;
     }
     
-    p:nth-child(3){
+    .description{
       
       color:#003366;
       font-family: Tahoma;
