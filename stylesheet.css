@@ -51,3 +51,7 @@ div:nth-child(4){
 a:hover{
   background-color:violet;
 }
+
+div:hover{
+  background-color:violet;
+}
