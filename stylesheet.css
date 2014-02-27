@@ -43,10 +43,8 @@ p {
     color:#003366;
     display:inline-block;
     width:250px;
-    height:50px;
-    vertical-align:middle;
-    margin-top:auto;
-    margin-bottom:auto;
+    line-height:50px;
+
 
 }
 
