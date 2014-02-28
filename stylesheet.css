@@ -96,11 +96,11 @@ ul{
 
 body{
 	
-  background: url(http://acmrs.org/sites/default/files/Oxford_Balloon.jpg) no-repeat center center fixed; 
+  background: url(http://cdnoxford.tab.co.uk/files/2013/08/Oxford-Uni.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
+  background-size: 300px;
   opacity:.7;
 }
 }
