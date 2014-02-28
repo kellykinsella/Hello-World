@@ -100,7 +100,8 @@ body{
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: 300px;
+  background-size: cover;
+  filter:blur;
   opacity:.7;
 }
 }
