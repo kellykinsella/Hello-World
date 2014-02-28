@@ -16,6 +16,13 @@ p {
     display:block;
     margin-left: auto;
     margin-right: auto;
+    filter: blur(3px); 
+-webkit-filter: blur(3px); 
+-moz-filter: blur(3px);
+-o-filter: blur(3px); 
+-ms-filter: blur(3px);
+filter: url(blur.svg#blur);
+filter:progid:DXImageTransform.Microsoft.Blur(PixelRadius='3');
     
     }
     
