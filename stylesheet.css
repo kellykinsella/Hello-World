@@ -16,14 +16,7 @@ p {
     display:block;
     margin-left: auto;
     margin-right: auto;
-    filter: blur(3px); 
--webkit-filter: blur(3px); 
--moz-filter: blur(3px);
--o-filter: blur(3px); 
--ms-filter: blur(3px);
-filter: url(blur.svg#blur);
-filter:progid:DXImageTransform.Microsoft.Blur(PixelRadius='3');
-    
+   
     }
     
     .bckk:hover{
@@ -106,7 +99,13 @@ body{
   background: url(http://cdnoxford.tab.co.uk/files/2013/08/Oxford-Uni.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
-  -o-background-size: cover;
+  -o-background-size: cover;   filter: blur(3px); 
+-webkit-background-filter: blur(3px); 
+-moz-background-filter: blur(3px);
+-o-background-filter: blur(3px); 
+-ms-background-filter: blur(3px);
+background-filter: url(blur.svg#blur);
+background-filter:progid:DXImageTransform.Microsoft.Blur(PixelRadius='3');
   background-size: cover;
   filter:blur;
   opacity:.9;
